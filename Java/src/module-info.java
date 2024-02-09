@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ayalo
+ *
+ */
+module Java {
+}
